@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{04a0cefb-63d8-4ae8-8ba2-582af719b05b}</ProjectGuid>
-    <RootNamespace>My2polynomial</RootNamespace>
+    <ProjectGuid>{35bb9eeb-4817-4aa7-8663-b10bd5ecbeac}</ProjectGuid>
+    <RootNamespace>My2sparseMatrixFastTranspose</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
