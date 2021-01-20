@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f41bee87-a7c9-450a-b9b7-2759b7373b99}</ProjectGuid>
-    <RootNamespace>My6primAlgorithm</RootNamespace>
+    <ProjectGuid>{17c88cff-063d-4adb-921c-3235f1616bd6}</ProjectGuid>
+    <RootNamespace>My6dijkstraAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
