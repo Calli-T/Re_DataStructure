@@ -73,7 +73,7 @@ vector<Edge> kruskal(priority_queue<Edge, vector<Edge>, cmp>& Q, int vertex) {
 		int tempRootA = collapsingFind(now.vertexA, parent);
 		int tempRootB = collapsingFind(now.vertexB, parent);
 
-		//간선의 양끝의 root가 같을 때 추가하며, 번호가 적은쪽이 root가 된다
+		//간선의 양끝의 root가 다를 때 추가하며, 번호가 적은쪽이 root가 된다
 		if (tempRootA != tempRootB) {
 			ans.push_back(now);
 
